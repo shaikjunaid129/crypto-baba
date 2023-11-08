@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 15891,
+  "articles": [
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Gideon Lichfield, Lauren Goode",
+      "title": "Where Does Crypto Go From Here?",
+      "description": "We talk with Michael Casey, the chief content officer of CoinDesk, almost one year after the news site brought down Sam Bankman-Fried’s cryptocurrency empire FTX.",
+      "url": "https://www.wired.com/story/have-a-nice-future-podcast-24/",
+      "urlToImage": "https://media.wired.com/photos/6525c8ac419624284be05210/191:100/w_1280,c_limit/HANF-Michael%20Casey.jpg",
+      "publishedAt": "2023-10-11T11:00:00Z",
+      "content": "Gideon Lichfield: You said just now that what Sam Bankman-Fried did was allegedly illegal. Is there a world in which it wasn't illegal?\r\nMichael Casey: I think we allI know. I'm trying to be a good j… [+2082 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Andy Greenberg, Lily Hay Newman",
+      "title": "The US Congress Was Targeted With Predator Spyware",
+      "description": "Plus: Hamas raised millions in crypto, Exxon used hacked data, and more.",
+      "url": "https://www.wired.com/story/us-congress-spyware/",
+      "urlToImage": "https://media.wired.com/photos/65298e553841d3cd4702e7c1/191:100/w_1280,c_limit/Security-News-This-Week--Congressmen-Targeted-With-Predator-Spyware-Via-X-Links-GettyImages-1717859129.jpg",
+      "publishedAt": "2023-10-14T13:00:00Z",
+      "content": "The media consortium, along with security researchers from Amnesty International and Google's Threat Analysis Group, were able to show Vietnam's connection to the Predator hacking campaign through docu… [+3608 chars]"
+    }
+  ]
+}
